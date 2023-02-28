@@ -23,7 +23,7 @@ Some related works about this topic are listed as follows:
 
 ## Citations:
 
-If you find this code is useful to your research, please consider to cite our paper.
+If you find this code is useful to your research, please consider to cite our papers.
 
 ```
 @InProceedings{dong2022federated,
