@@ -53,6 +53,3 @@ If you find this code is useful to your research, please consider to cite our pa
 }
 
 
-## Contact:
-
-* **Jiahua Dong:** dongjiahua1995@gmail.com
