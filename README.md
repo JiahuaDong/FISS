@@ -1,15 +1,15 @@
 # Pytorch Implementation for FBL
 
-## [[CVPR-2023] Federated Incremental Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html)
+## [[CVPR-2023] Federated Incremental Semantic Segmentation](https://arxiv.org/pdf/2304.04620.pdf)
 
 This is the official implementation code of our paper "**Federated Incremental Semantic Segmentation**" accepted by [CVPR-2023](https://cvpr2023.thecvf.com/). 
 
-You can also find the arXiv version with supplementary material at [here](https://arxiv.org/abs/2203.11473).
+You can also find the arXiv version with supplementary material at [here](https://arxiv.org/pdf/2304.04620.pdf).
 
 
 ## Framework
 
-We are preparing the camera ready version, and code is coming soon...
+The code is coming soon...
 
 
 ## Our Related Works
