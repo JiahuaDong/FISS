@@ -22,7 +22,7 @@ This repository contains all of our code. It is a modified version of
 - matplotlib (3.3.4)
 - numpy (1.19.5)
 - [inplace-abn](https://github.com/mapillary/inplace_abn) (1.1.1.dev6+gd2728c8)
-- Meomory $\geq$ 35G (recommend NVIDIA A100)
+- Memory $\geq$ 35G (recommend NVIDIA A100)
 
 
 **Recommend:** You can directly use our encapsulated files [(FCIL.zip)](https://share.weiyun.com/cjxea0lG) to create an environment. The steps are as follows:
