@@ -21,7 +21,7 @@ This repository contains all of our code. It is a modified version of
 - apex (0.1)
 - matplotlib (3.3.4)
 - numpy (1.19.5)
-- [inplace-abn](https://github.com/mapillary/inplace_abn) (1.1.1.dev6+gd2728c8)
+- [inplace-abn](https://github.com/mapillary/inplace_abn) (1.1.0 or 1.1.1.dev6+gd2728c8)
 - Memory $\geq$ 35G (recommend NVIDIA A100)
 
 
