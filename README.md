@@ -1,6 +1,6 @@
 # Pytorch Implementation for FBL
 
-## [[CVPR-2023] Federated Incremental Semantic Segmentation](https://arxiv.org/pdf/2304.04620.pdf)
+## [[CVPR-2023] Federated Incremental Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
 
 This is the official implementation code of our paper "**Federated Incremental Semantic Segmentation**" accepted by [CVPR-2023](https://cvpr2023.thecvf.com/). 
 
@@ -71,16 +71,17 @@ Some related works about this topic are listed as follows:
 If you find this code is useful to your research, please consider to cite our papers.
 
 ```
-@InProceedings{dong2023federated,
+@InProceedings{dong2023federated_FISS,
     author = {Dong, Jiahua and Zhang, Duzhen and Cong, Yang and Cong, Wei and Ding, Henghui and Dai, Dengxin},
     title = {Federated Incremental Semantic Segmentation},
-    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month = {June},
     year = {2023},
+    pages = {3934-3943}
 }
 ```
 ```
-@InProceedings{dong2022federated,
+@InProceedings{dong2022federated_FCIL,
     author = {Dong, Jiahua and Wang, Lixu and Fang, Zhen and Sun, Gan and Xu, Shichao and Wang, Xiao and Zhu, Qi},
     title = {Federated Class-Incremental Learning},
     booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
