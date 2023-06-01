@@ -9,7 +9,7 @@ You can also find the arXiv version with supplementary material at [here](https:
 This repository contains all of our source code. We sincerely thank the help of other repositories:
 [Cermelli et al.'s repository](https://github.com/fcdl94/MiB), [Douillard et al.'s repository](https://github.com/arthurdouillard/CVPR2021_PLOP), and [Zhang et al.'s repository](https://github.com/zhangchbin/RCIL).
 
-## Framework
+## Brief Introduction
 
 ![overview](./data/overview.png)
 
