@@ -63,7 +63,7 @@ Some related works about this topic are listed as follows:
 
 1. [[CVPR-2022] Federated Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Dong_Federated_Class-Incremental_Learning_CVPR_2022_paper.html) [[Code]](https://github.com/conditionWang/FCIL)
 
-2. [[TPAMI-2023] No One Left Behind: Real-World Federated Class-Incremental Learning](https://arxiv.org/abs/2302.00903v1) (Under Review) [[Code]](https://github.com/jiahuadong/lga)
+2. [[TPAMI-2023] No One Left Behind: Real-World Federated Class-Incremental Learning](https://arxiv.org/abs/2302.00903v1) [[Code]](https://github.com/jiahuadong/lga)
 
 
 ## Citations:
